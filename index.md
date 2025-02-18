@@ -1,6 +1,5 @@
 # MALfunction
 
-# IF you are seeing this page you are to0 early, this is currently a WIP and is being worked on
 
 ## Introduction to the MALfunction Hackathon
 
@@ -16,6 +15,8 @@ You will be scored on several aspects
 - Persistance 
 
 ### Schedule
+
+Date & Time to be confirmed, watch this space!
 
 - **Day 1:** Introduction and Theme reveal
 - **Day 2:** Hackathon continues
