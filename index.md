@@ -1,7 +1,7 @@
 # MALfunction
 
 
-## Introduction to the MALfunction Hackathon
+## What is the MALfunction Hackathon
 
 Welcome to the MALfunction Hackathon! This event is designed to educate participants on the inner workings of malware in a controlled environment and give a chance to get into the head of a malware developer. At the start of the hackaton you will be given a theme, a target OS and "Actions on Objectives" AOO is what we consider the attackers goals. What they want to acomplish with this malware, it could be to deploy ransomware, it could be exfiltrate a lot of data you wont know until the hackathon starts.
 
@@ -16,7 +16,7 @@ You will be scored on several aspects
 
 ### Schedule
 
-Date & Time to be confirmed, watch this space!
+Friday the 27th of June to Sunday the 29th
 
 - **Day 1:** Introduction and Theme reveal
 - **Day 2:** Hackathon continues
