@@ -16,11 +16,11 @@ You will be scored on several aspects
 
 ### Schedule
 
-Monday the 23rd to Friday the 27th of June
+Monday the 23rd to Saturday the 28th of June
 
 - **Day 1:** Introduction and Theme reveal
-- **Day 2-4:** Hackathon continues
-- **Day 5:** Sample submission, malware detonation & scoring (online and in person)
+- **Day 2-5:** Hackathon continues
+- **Day 6:** Sample submission, malware detonation, scoring & afterparty (online and in person with drinks)
 
 
 Happy hacking!
