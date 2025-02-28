@@ -24,7 +24,7 @@ Monday the 23rd to Saturday the 28th of June
 - **Day 6:** Sample submission, malware detonation, scoring & afterparty (online and in person with drinks)
 
 ### Sign up
- https://forms.gle/t6Y4w9KnRxBZrWyp9
+[Sign up here](https://forms.gle/t6Y4w9KnRxBZrWyp9)
 
 ### FAQ
 - Can I compete as a team? yes you can compete individually or as a team
