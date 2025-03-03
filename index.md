@@ -23,6 +23,10 @@ Monday the 23rd to Saturday the 28th of June
 - **Day 2-5:** Hackathon continues
 - **Day 6:** Sample submission, malware detonation, scoring & afterparty (online and in person with drinks)
 
+### Prizes
+
+There will be a top prize for the highest scoring software and everyone who submits a working sample 
+will be entered into a raffle to also win a prize
 ### Sign up
 [Sign up here](https://forms.gle/t6Y4w9KnRxBZrWyp9)
 
