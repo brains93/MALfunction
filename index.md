@@ -32,6 +32,7 @@ will be entered into a raffle to also win a prize
 
 ### FAQ
 - Can I compete as a team? yes you can compete individually or as a team
+- Do I need any prior knowlage to take part? You need to know how to program, there will be an area to ask questions but th point of this is to show that malware isnt some magic program that only the elite can create.
 - Is this Virtual or in Person? Both, you can compete from anywhere but the last day we will have an optional in person detonation of the files and afterparty
 - Can I use my code in red Team/Pentest engagements? Yes provided they are used in accordance with your ROE and not used in unauthorized systems
 
